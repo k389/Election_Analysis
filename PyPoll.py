@@ -67,14 +67,14 @@ with open(file_to_save, "w") as txt_file:
     #Save the final vote count to the text file.
     txt_file.write(election_results)
 
-# 3. Print the total votes
-#print(total_votes)
+    # 3. Print the total votes
+    #print(total_votes)
 
-# Print the candidate list
-#print(candidate_options)
+    # Print the candidate list
+    #print(candidate_options)
 
-# Print the candidate vote dictionary.
-#print(candidate_votes)
+    # Print the candidate vote dictionary.
+    #print(candidate_votes)
 
     # Determine the percentage of the votes for each candidate by looping through the counts
     # 1. Iterate throught the candidate list.
