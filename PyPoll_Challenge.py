@@ -5,7 +5,7 @@
 # 4. The total number of votes each candidate won
 # 5. The winner of the election based on popular vote.
 
-# Challege Questions
+# Challenge Questions
     #The voter turnout for each county
     #The number of votes that were cast from each county
     #The percentage of votes each county contributed to the election
